@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="shortcut icon" href="./images/images__1_-removebg-preview.png" type="image/x-icon" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.1/css/all.css" crossorigin="anonymous" />
+    <title>To do list</title>
+    <link rel="stylesheet" href="./style.css" />
+</head>
+
+<body>
+    <header>
+        <h1><img src="./images/images__1_-removebg-preview (1).png"></h1>
+    </header>
+    <form>
+        <input type="text" class="task-input" placeholder="add your task" />
+        <button class="add-button">
+        <i class="fas fa-plus"></i>
+      </button>
+        <div class="select">
+            <select name="tasks" class="filter-options">
+          <option value="All">All</option>
+          <option value="Completed">Completed</option>
+          <option value="Uncompleted">Uncompleted</option>
+        </select>
+        </div>
+    </form>
+    <div class="task-container">
+        <ul class="task-list"></ul>
+    </div>
+    <script src="./script.js"></script>
+</body>
+
+</html>
