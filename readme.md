@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./images/images__1_-removebg-preview (1).png">
+    <img src="./images/images__1_-removebg-preview.png">
 
   <h3 align="center">.: To do :.</h3>
 
@@ -13,8 +13,8 @@
 
 ### About The Project
 ---
-[Todo list](https://parisa-ettehad.github.io/todo-list/)
- is a list of tasks you need to complete or things that you want to do.
+![Todo list](./images/images__1_-removebg-preview%20(1).png)
+Todo list is a list of tasks you need to complete or things that you want to do.
   
 What makes this product different is the pleasent experience you'll have, due to its customizable offers, excellent features and UI/UX Design.
 
