@@ -1,26 +1,20 @@
 <div align="center">
     <img src="./images/images__1_-removebg-preview (1).png">
 
-  <h3 align="center">.: PJ Online Studio :.</h3>
+  <h3 align="center">.: To do :.</h3>
 
   <p align="center">
     Helps you organize your income and expenses!
    </p> 
-    <a align="center" href="https://parisa-ettehad.github.io/PJ-Studio/">View Live
+    <a align="center" href="https://parisa-ettehad.github.io/todo-list/">View Live
     </a>
 </div>
 
 
 ### About The Project
 ---
-![]()
-PJ Studio is an online studio that helps you organize your income and expenses efficiently.
-
-The process incldes:
-
-+ Daily standups
-+ Weekly sync.
-+ User testing
+[Todo list](https://parisa-ettehad.github.io/todo-list/)
+ is a list of tasks you need to complete or things that you want to do.
   
 What makes this product different is the pleasent experience you'll have, due to its customizable offers, excellent features and UI/UX Design.
 
